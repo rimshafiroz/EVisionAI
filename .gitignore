@@ -1,0 +1,2 @@
+# Python caches\n__pycache__/\n*.pyc\n.ipynb_checkpoints/\n.venv/\n.env\n
+# Data\ndata/*.csv\n
